@@ -29,3 +29,6 @@ for category, items in about_me.items():
 **Aspiring projects(can be found in my repositories and are yet to be complete)**
 
 >[Picture to metahuman process](https://atomic-glitter2004.github.io/metahuman.github.io/)
+
+**My personal blog page where i post writings/thoughts**
+>[Ash's Blog](https://ashzhouzq.wordpress.com/)
